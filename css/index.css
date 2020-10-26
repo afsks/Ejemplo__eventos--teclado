@@ -28,4 +28,5 @@ h1{
     outline: none;
     width: 40px;
     height: 40px;
+    box-shadow: 0 0 5px 0 #acacac;
 }
